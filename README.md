@@ -10,7 +10,7 @@ I work in public: every product below started as a small, real annoyance, became
 
 | Product | What it is | Built with |
 |---|---|---|
-| **[Copy Sync](https://github.com/ronaldrosalesr/figma-copy-sync)** | A Figma plugin that syncs UI copy from Google Sheets into designs in one click. [Landing page](https://ronaldrosales.com/copy-sync/) | Figma Plugin API, JavaScript |
+| **[Copy Sync](https://ronaldrosales.com/copy-sync/)** | A Figma plugin that syncs UI copy from Google Sheets into designs in one click. | Figma Plugin API, JavaScript |
 | **[QuickApply](https://ronaldrosales.com/quick-app-landing/)** | A Chrome extension that fills job applications in one click, with paid activation codes. | Chrome Extensions, Cloudflare Workers + D1, Stripe, WordPress |
 | **[The Station](https://ronaldrosales.com/the-station/)** | A coffee ordering app for home baristas and small cafés. Guests order from their phone, the barista sees orders live. | PWA, Supabase (Postgres, Realtime, RLS) |
 | **[Focus.MD](https://ronaldrosales.com/focus-md-app/)** | A calm, single-file Markdown editor to read, edit, review and create `.md` files without another service. | HTML, CSS, JavaScript |
