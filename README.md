@@ -1,6 +1,6 @@
 # Hi, I'm Ronald Rosales
 
-**AI Design Engineer.** Product designer and web designer with a degree in Systems Engineering.
+**Design Engineer.** Product and web designer with a degree in Systems Engineering.
 
 My engineering background is why I don't stop at the mockup. I understand how software, data and systems fit together, so I can take a product from the first idea to something people actually use. I design it, then build and ship it myself, with AI as my engineering partner.
 
