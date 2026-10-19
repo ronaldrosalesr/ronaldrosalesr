@@ -2,14 +2,14 @@
 
 **Design Engineer.** Product and web designer with a degree in Systems Engineering.
 
-My engineering background is why I don't stop at the mockup. I understand how software, data and systems fit together, so I can take a product from the first idea to something people actually use. I design it, then build and ship it myself, with AI as my engineering partner.
+My engineering background is why I don't stop at the mockup. I understand how software, data and systems fit together, so I can take a product from the first idea all the way to launch, building and shipping it myself with AI as my pair programmer.
 
-Every product below started as a real, everyday problem. I wrote the PRD, designed the experience, built it and launched it.
+Every product below started as a real, everyday problem. I wrote the PRD, shaped the experience, built it and launched it.
 
 **What I bring**
 
 - **Systems Engineering:** software architecture, databases, and thinking in systems, not just screens
-- **Product design:** research, strategy, and interaction design for real products and teams
+- **Product design:** research, strategy, and UX for real products and teams
 - **Web design:** fast, polished sites and landing pages, built and maintained by me
 
 [ronaldrosales.com](https://ronaldrosales.com) · [LinkedIn](https://www.linkedin.com/in/ronaldrosales/) · [YouTube](https://www.youtube.com/@byRonaldRosales) · [Blog](https://ronaldrosales.com/blog/) · [Pixelados podcast](https://ronaldrosales.com/podcast/)
