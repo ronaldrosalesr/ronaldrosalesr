@@ -1,8 +1,16 @@
 # Hi, I'm Ronald Rosales
 
-**AI Design Engineer.** I'm a product designer who doesn't stop at the mockup. I design products, then build and ship them myself, with AI as my engineering partner.
+**AI Design Engineer.** Product designer and web designer with a degree in Systems Engineering.
 
-I work in public: every product below started as a small, real annoyance, became a PRD, and turned into working software I designed, built and launched.
+My engineering background is why I don't stop at the mockup. I understand how software, data and systems fit together, so I can take a product from the first idea to something people actually use. I design it, then build and ship it myself, with AI as my engineering partner.
+
+Every product below started as a real, everyday problem. I wrote the PRD, designed the experience, built it and launched it.
+
+**What I bring**
+
+- **Systems Engineering:** software architecture, databases, and thinking in systems, not just screens
+- **Product design:** research, strategy, and interaction design for real products and teams
+- **Web design:** fast, polished sites and landing pages, built and maintained by me
 
 [ronaldrosales.com](https://ronaldrosales.com) · [LinkedIn](https://www.linkedin.com/in/ronaldrosales/) · [YouTube](https://www.youtube.com/@byRonaldRosales) · [Blog](https://ronaldrosales.com/blog/) · [Pixelados podcast](https://ronaldrosales.com/podcast/)
 
